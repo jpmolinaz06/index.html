@@ -1,0 +1,41 @@
+</head>
+<body>
+
+<div style="text-align:center;">
+
+<h1>Biografia</h1>
+<p>HOLA PERRROSSSSSS.</p>
+<img src="https://musictech.com/wp-content/uploads/2021/10/beginners-guide-to-music-production.jpg" width="300">
+<p>Biografia del estudiante Juan Pablo Molina</p>
+<p>Soy un estudiante del colegio Antigua International School. Tengo 16 años. Vivo en Antigua Guatemala, en la finca de mis abuelos. Mis hobbies son: Componer música, actuar, pasar tiempo con mis amigos.</p>
+<iframe width="1280" height="720" src="https://youtu.be/c3Y98Iit9QY" title="<iframe width="901" height="507" src="https://www.youtube.com/embed/iDdSffo5OOY" title="Better Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<table>
+  <tr>
+    <th>Teacher</th>
+    <th>Class</th>
+    <th>Average</th>
+  </tr>
+  <tr>
+    <td>Ana</td>
+    <td>Baile</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>El Mae</td>
+    <td>Composicion</td>
+    <td>9</td>
+  </tr>
+</table>
+
+<a href="http://www.antiguais.org/">Visit AIS!</a>
+<br>
+<br>
+<button onclick="document.location='default.asp'">HTML Tutorial</button> 
+</div>
+
+
+</body>
+</html>
+
+
